@@ -40,9 +40,9 @@ Simply start prerendering.
 
 #### Scenario 2: (preferred way but broken)
 
-Just uncomment the Scenario 1: method and import.
+Just uncomment the Scenario 2: method and import.
 
-See ``src/app/app.component.ts``. You can run both scenarios and try prerendering each one. Only Scenario 2 is working even if the methods are never called.
+See ``src/app/app.component.ts``. You can run both scenarios and try prerendering each one. Only Scenario 1 is working even if the methods are never called.
 
 
 
